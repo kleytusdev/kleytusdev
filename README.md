@@ -1,5 +1,4 @@
-<center>
-
+<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kleytusdev&theme=synthwave&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kleytusdev&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
@@ -16,4 +15,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=kleytusdev&label=Beep%20Boop&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
-</center>
+</p>
