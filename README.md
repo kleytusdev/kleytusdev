@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleytusdev&theme=synthwave&hide_border=false" width="35px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleytusdev&theme=synthwave&hide_border=false" width="400px">
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kleytusdev&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
