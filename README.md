@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white">
     <img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=white">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
