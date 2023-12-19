@@ -1,10 +1,12 @@
 <br>
 
-<p align="center">
+<div align="center">
 
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=ef8539&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aldo+de+la+Cruz+Gallegos.;I'm+a+Software+Developer.)
-    
 </p>
+    
+</div>
 
 <br>
 
