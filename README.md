@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ef8539&size=18&center=true&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aldo.;Software+Developer.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ef8539&size=18&center=true&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aldo;Software+Developer">
 </p>
 
 <br>
