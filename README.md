@@ -1,10 +1,8 @@
 <br>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=ef8539&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aldo.;I'm+a+Software+Developer.)
-    
-</div>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ef8539&size=18&center=true&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aldo.;Software+Developer.">
+</p>
 
 <br>
 
@@ -20,6 +18,7 @@
     <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white">
     <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white">
@@ -34,4 +33,3 @@
 ![](https://visitcount.itsvg.in/api?id=kleytusdev&label=View%20count&color=12&icon=4&pretty=true)
     
 </div>
-
