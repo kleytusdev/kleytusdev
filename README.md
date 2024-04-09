@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white">
+    <img src="https://img.shields.io/badge/Livewire-fb70a9?style=flat&logo=livewire&logoColor=black%22">
+    <img src="https://img.shields.io/badge/Alpine.js-fff?style=flat&logo=alpine.js&logoColor=black%22">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
