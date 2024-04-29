@@ -23,13 +23,23 @@
     <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Tailwind CSS-fff?style=flat&logo=tailwindcss&logoColor=38bdf8">
 </p>
 <p align="center">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Insomnia-5848be?style=flat&logo=insomnia&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL Server-fff?style=flat&logo=microsoftsqlserver&logoColor=red">
+    <img src="https://img.shields.io/badge/Oracle-fff?style=flat&logo=oracle&logoColor=red">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Railway-13111c.svg?style=flat&logo=railway&logoColor=white">
 </p>
 <br>
 <div align="center">
