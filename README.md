@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Oracle-fff?style=flat&logo=oracle&logoColor=red">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon&logoColor=white">
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
     <img src="https://img.shields.io/badge/Railway-13111c.svg?style=flat&logo=railway&logoColor=white">
 </p>
