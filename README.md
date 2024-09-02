@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Insomnia-5848be?style=flat&logo=insomnia&logoColor=white">
+    <img src="https://img.shields.io/badge/Hoppscotch-081713?style=flat&logo=hoppscotch&logoColor=00ebc3">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
