@@ -1,16 +1,10 @@
 <br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ef8539&size=18&center=true&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aldo;Software+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=b7bdf8&size=18&center=true&vCenter=true&height=16&lines=Software+Developer">
 </p>
 
 <br>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleytusdev&theme=synthwave&hide_border=false" width="400px">
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kleytusdev&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Laravel-fff.svg?style=flat&logo=laravel&logoColor=23FF2D20">
