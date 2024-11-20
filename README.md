@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-fff.svg?style=flat&logo=laravel&logoColor=23FF2D20">
+    <img src="https://img.shields.io/badge/PHP-89b4fa.svg?style=flat&logo=laragon&logoColor=white">
     <img src="https://img.shields.io/badge/Livewire-fb70a9?style=flat&logo=livewire&logoColor=black%22">
     <img src="https://img.shields.io/badge/Alpine.js-fff?style=flat&logo=alpine.js&logoColor=black%22">
 </p>
@@ -31,20 +31,14 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Insomnia-5848be?style=flat&logo=insomnia&logoColor=white">
+    <img src="https://img.shields.io/badge/Starship-e50a6d.svg?style=flat&logo=starship&logoColor=white">
     <img src="https://img.shields.io/badge/Hoppscotch-081713?style=flat&logo=hoppscotch&logoColor=00ebc3">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/SQL Server-fff?style=flat&logo=microsoftsqlserver&logoColor=red">
     <img src="https://img.shields.io/badge/Oracle-fff?style=flat&logo=oracle&logoColor=red">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-web-services&logoColor=white">
-    <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/Railway-13111c.svg?style=flat&logo=railway&logoColor=white">
-    <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonwebservices&logoColor=ff9900">
 </p>
 <br>
 <div align="center">
