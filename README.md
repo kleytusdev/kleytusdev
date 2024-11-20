@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Alpine.js-fff?style=flat&logo=alpine.js&logoColor=black%22">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/React_Native-0f0f0f.svg?style=flat&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/SQL Server-fff?style=flat&logo=microsoftsqlserver&logoColor=red">
     <img src="https://img.shields.io/badge/Oracle-fff?style=flat&logo=oracle&logoColor=red">
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonwebservices&logoColor=ff9900">
+    <img src="https://img.shields.io/badge/AWS-ff9900.svg?style=flat&logo=amazonwebservices&logoColor=232F3E">
 </p>
 <br>
 <div align="center">
