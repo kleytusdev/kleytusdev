@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-1d63ed?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-ff9900.svg?style=flat&logo=amazonwebservices&logoColor=232F3E">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=fff">
+    
 </p>
 <br>
 <div align="center">
