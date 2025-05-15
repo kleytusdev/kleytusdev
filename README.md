@@ -36,9 +36,3 @@
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=fff">
     
 </p>
-<br>
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=kleytusdev&label=View%20count&color=12&icon=4&pretty=true)
-    
-</div>
