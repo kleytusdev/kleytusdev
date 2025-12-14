@@ -30,9 +30,10 @@
     <img src="https://img.shields.io/badge/Hoppscotch-081713?style=flat&logo=hoppscotch&logoColor=00ebc3">
 </p>
 <p align="center">
+    <img src="https://img.shields.io/badge/Redis-d61d11?style=flat&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-1d63ed?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-ff9900.svg?style=flat&logo=amazonwebservices&logoColor=232F3E">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=fff">
     <img src="https://img.shields.io/badge/Firebase-ff9900?style=flat&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=fff">
 </p>
