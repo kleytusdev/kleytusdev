@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/React_Native-0f0f0f.svg?style=flat&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/NestJS-1b1c31?style=flat&logo=nestjs&logoColor=f00057">
+    <img src="https://img.shields.io/badge/Hono-1e1e20?style=flat&logo=hono&logoColor=e36002">
     <img src="https://img.shields.io/badge/Laravel-d11509?style=flat&logo=laravel&logoColor=white">
 </p>
 <p align="center">
